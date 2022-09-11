@@ -1,12 +1,12 @@
 ## Nothing Phone(1) Patch
 
-Nothing Phone(1) Patchの内容
+Nothing Phone(1) Patch の内容
 
 * カメラシャッター音の強制を無効化
 * 電源メニューから緊急通報や機内モードを削除
-* ナビゲーションバーのバーを非表示に変更 (不要だったらsystem/product/overlayのhidenavbarpill.apkを削除で)
+* ジェスチャーナビゲーションバーのバーを非表示に変更 (不要だったら system/product/overlayのhidenavbarpill.apk を削除で)
 * 壁紙のズームを無効化 (されてると思う)
-* 2ボタンナビゲーションバーの追加
+* 2 ボタンナビゲーションバーの追加
 
 をする Magisk モジュールです。  
 必要ないものがあれば overlay フォルダにある apk を削除するかデコンパイルして編集してください。
