@@ -1,3 +1,4 @@
+![NothingPatch](https://github.com/reindex-ot/magisk-module-nothing/blob/master/.github/title.png?raw=true)
 ## Nothing Phone(1) Patch
 
 Nothing Phone(1) Patch の内容
