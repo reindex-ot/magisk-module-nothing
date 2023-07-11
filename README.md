@@ -20,7 +20,8 @@ Nothing Phone(1) Patch の内容
 
 #### v2
 * Nothing OS v1.5.X(Android 13)でもNothing OS v2.0のアプリを使用可能にするオプションを追加
-  試験的な物なので動作は保証しません。
+
+  試験的な物なので動作は保証しません。試したい方は[こちら](https://drive.google.com/drive/folders/1l5v9wuyXmezRqqDYrwJ5z8NPBNFP4XmN)
 
 ## ライセンス
 
