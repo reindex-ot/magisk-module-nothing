@@ -9,6 +9,7 @@ Nothing Phone(1) Patch の内容
 * ジェスチャーナビゲーションバーのバーを非表示に変更 (不要だったら system/product/overlayのhidenavbarpill.apk を削除で)
 * 壁紙のズームを無効化 (されてると思う)
 * 2 ボタンナビゲーションバーの追加
+* Nothing OS v1.5.Xの環境でもNothing OS 2.0のアプリを使用可能にする
 
 をする Magisk モジュールです。  
 必要ないものがあれば overlay フォルダにある apk を削除するかデコンパイルして編集してください。
@@ -17,9 +18,8 @@ Nothing Phone(1) Patch の内容
 
 ## 更新履歴
 
-#### v1
-* リリースしてみた。
-* Nothing OS v1.5.0(Android 13)の環境下でも正常に動作をする事を確認しました。
+#### v2
+* Nothing OS v1.5.X(Android 13)でもNothing OS v2.0のアプリを使用可能にするオプションを追加
 
 ## ライセンス
 
