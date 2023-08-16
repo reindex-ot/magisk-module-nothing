@@ -16,6 +16,12 @@ Nothing Phone(1) Patch の内容
 
 適当に編集をしたんでマジで超適当です。フォークするなりで自由に弄ってください。
 
+### 動作確認済み環境
+- Nothing Phone(1) / Nothing OS 1.0.X~1.5.X
+- Nothing Phone(2) / Nothing OS 2.0.X
+
+の環境化でモジュールが動作する事を確認済みです。
+
 ## 更新履歴
 
 #### v2
