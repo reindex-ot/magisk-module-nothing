@@ -20,7 +20,7 @@ Nothing Phone(1) Patch の内容
 - Nothing Phone(1) / Nothing OS 1.0.X~1.5.X
 - Nothing Phone(2) / Nothing OS 2.0.X
 
-の環境化でモジュールが動作する事を確認済みです。
+の環境でモジュールが動作する事を確認済みです。
 
 ## 更新履歴
 
