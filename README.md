@@ -22,6 +22,25 @@ Nothing Phone(1) Patch の内容
 
 の環境でモジュールが動作する事を確認済みです。
 
+### English
+
+- Disable Force Camera Shutter Sound.
+- Remove emergency calls and airplane mode from the power menu.
+- Changed so that the screen does not turn on when the USB cable is attached or detached.
+- Changed to hide the gesture navigation bar (remove hideavbarpill.apk in system/product/overlay if you don't need it).
+- Disable wallpaper zoom (I think it is).
+- Adding a two-button navigation bar.
+- Enable Nothing OS 2.0 apps to be used in - Nothing OS v1.5.X environment (experimental)
+
+If you don't need anything, delete or decompile and edit the apk in the overlay folder.
+
+I edited it properly, so it's really suitable. Feel free to fiddle with it by forking it.
+
+Tested On:
+- Nothing Phone(1) / Nothing OS 1.0.X~1.5.X
+- Nothing Phone(2) / Nothing OS 2.0.X
+
+
 ## 更新履歴
 
 #### v2
