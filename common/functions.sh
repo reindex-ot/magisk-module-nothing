@@ -131,12 +131,6 @@ mount_mirrors() {
   done
 }
 
-# Credits
-ui_print "**********************"
-ui_print "*   onimorza @ XDA   *"
-ui_print "**********************"
-ui_print " "
-
 # Check for min/max api version
 [ -z $MINAPI ] || { [ $API -lt $MINAPI ] && abort "! Your system API of $API is less than the minimum api of $MINAPI! Aborting!"; }
 [ -z $MAXAPI ] || { [ $API -gt $MAXAPI ] && abort "! Your system API of $API is greater than the maximum api of $MAXAPI! Aborting!"; }
