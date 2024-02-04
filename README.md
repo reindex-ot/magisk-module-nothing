@@ -7,7 +7,7 @@ Nothing Phone Patch の内容
 * USB ケーブル着脱時に画面がオンにならないように変更
 * ジェスチャーナビゲーションバーのバーを非表示に変更 (不要だったら system/product/overlayのhidenavbarpill.apk を削除で)
 * 壁紙のズームを無効化 (されてると思う)
-* 2 ボタンナビゲーションバーの追加
+* 2 ボタンナビゲーションバーの追加 (Android 14ベースのNothing OSではタスク切り替えのジェスチャーが使えません) ← 誰か助けてぇー!
 * Nothing OS v1.5.Xの環境でもNothing OS 2.0のアプリを使用可能にする (試験的)
 * Nothing OS v2.0以降で表示される音量の警告を無効化
 
