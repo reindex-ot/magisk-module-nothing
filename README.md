@@ -7,7 +7,7 @@ Nothing Phone Patch の内容
 * USB ケーブル着脱時に画面がオンにならないように変更
 * ジェスチャーナビゲーションバーのバーを非表示に変更 (不要だったら system/product/overlayのhidenavbarpill.apk を削除で)
 * 壁紙のズームを無効化 (されてると思う)
-* 2 ボタンナビゲーションバーの追加 (Android 14ベースのNothing OSではタスク切り替えのジェスチャーが使えません) ← 誰か助けてぇー!
+* 2 ボタンナビゲーションバーの追加 (Android 14ベースの場合はNothing Launcherじゃないと正常に使えません) ← 誰か助けてぇー!
 * Nothing OS v1.5.Xの環境でもNothing OS 2.0のアプリを使用可能にする (試験的)
 * Nothing OS v2.0以降で表示される音量の警告を無効化
 
@@ -17,8 +17,10 @@ Nothing Phone Patch の内容
 適当に編集をしたんでマジで超適当です。フォークするなりで自由に弄ってください。
 
 ### 動作確認済み環境
-- Nothing Phone(1) / Nothing OS 1.0.X~1.5.X
-- Nothing Phone(2) / Nothing OS 2.5.X
+- Nothing Phone(1) / Nothing OS 1.0.X - 2.6.X
+- Nothing Phone(2) / Nothing OS 2.0.X - 2.6.X
+- Nothing Phone(2a) / Nothing OS 2.5.5a - 2.6.X
+- CMF Phone 1も多分使えると思います。OSが2.6.0なので。
 
 の環境でモジュールが動作する事を確認済みです。
 
@@ -40,8 +42,9 @@ If you don't need anything, delete or decompile and edit the apk in the overlay 
 I edited it properly, so it's really suitable. Feel free to fiddle with it by forking it.
 
 Tested On:
-- Nothing Phone(1) / Nothing OS 1.0.X~1.5.X
-- Nothing Phone(2) / Nothing OS 2.5.X
+- Nothing Phone(1) / Nothing OS 1.0.X - 2.6.X
+- Nothing Phone(2) / Nothing OS 2.0.X - 2.6.X
+- Nothing Phone(2a) / Nothing OS 2.5.5a - 2.6.X
 
 ## 更新履歴
 
