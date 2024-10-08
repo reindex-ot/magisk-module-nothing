@@ -19,8 +19,8 @@ Nothing Phone Patch の内容
 ### 動作確認済み環境
 - Nothing Phone(1) / Nothing OS 1.0.X - 2.6.X
 - Nothing Phone(2) / Nothing OS 2.0.X - 2.6.X
-- Nothing Phone(2a) / Nothing OS 2.5.5a - 2.6.X
-- CMF Phone 1も多分使えると思います。OSが2.6.0なので。
+- Nothing Phone(2a) / Nothing OS 2.5.5a - 3.0.0 Beta
+- CMF Phone 1 / Nothing OS 2.6.0
 
 の環境でモジュールが動作する事を確認済みです。
 
