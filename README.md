@@ -44,7 +44,8 @@ I edited it properly, so it's really suitable. Feel free to fiddle with it by fo
 Tested On:
 - Nothing Phone(1) / Nothing OS 1.0.X - 2.6.X
 - Nothing Phone(2) / Nothing OS 2.0.X - 2.6.X
-- Nothing Phone(2a) / Nothing OS 2.5.5a - 2.6.X
+- Nothing Phone(2a) / Nothing OS 2.5.5a - 3.0.0 Beta
+- CMF Phone 1 / Nothing OS 2.6.0
 
 ## 更新履歴
 
