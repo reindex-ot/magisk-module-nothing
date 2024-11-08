@@ -18,7 +18,7 @@ Nothing Phone Patch の内容
 
 ### 動作確認済み環境
 - Nothing Phone(1) / Nothing OS 1.0.X - 2.6.X
-- Nothing Phone(2) / Nothing OS 2.0.X - 2.6.X
+- Nothing Phone(2) / Nothing OS 2.0.X - 3.0.0 Beta
 - Nothing Phone(2a) / Nothing OS 2.5.5a - 3.0.0 Beta
 - CMF Phone 1 / Nothing OS 2.6.0
 
