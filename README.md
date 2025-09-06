@@ -20,6 +20,7 @@ Nothing Phone Patch の内容
 - Nothing Phone(1) / Nothing OS 1.0.X - 2.6.X
 - Nothing Phone(2) / Nothing OS 2.0.X - 3.0.0 Beta
 - Nothing Phone(2a) / Nothing OS 2.5.5a - 3.0.0 Beta
+- Nothing Phone (3) / Nothing OS 3.5.0
 - CMF Phone 1 / Nothing OS 2.6.0
 
 の環境でモジュールが動作する事を確認済みです。
@@ -45,6 +46,7 @@ Tested On:
 - Nothing Phone(1) / Nothing OS 1.0.X - 2.6.X
 - Nothing Phone(2) / Nothing OS 2.0.X - 2.6.X
 - Nothing Phone(2a) / Nothing OS 2.5.5a - 3.0.0 Beta
+- Nothing Phone (3) / Nothing OS 3.5.0
 - CMF Phone 1 / Nothing OS 2.6.0
 
 ## 更新履歴
