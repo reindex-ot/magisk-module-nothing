@@ -17,9 +17,9 @@ Nothing Phone Patch の内容
 適当に編集をしたんでマジで超適当です。フォークするなりで自由に弄ってください。
 
 ### 動作確認済み環境
-- Nothing Phone(1) / Nothing OS 1.0.X - 2.6.X
-- Nothing Phone(2) / Nothing OS 2.0.X - 3.0.0 Beta
-- Nothing Phone(2a) / Nothing OS 2.5.5a - 3.0.0 Beta
+- Nothing Phone (1) / Nothing OS 1.0.X - 2.6.X
+- Nothing Phone (2) / Nothing OS 2.0.X - 3.0.0 Beta
+- Nothing Phone (2a) / Nothing OS 2.5.5a - 3.0.0 Beta
 - Nothing Phone (3) / Nothing OS 3.5.0
 - CMF Phone 1 / Nothing OS 2.6.0
 
@@ -43,9 +43,9 @@ If you don't need anything, delete or decompile and edit the apk in the overlay 
 I edited it properly, so it's really suitable. Feel free to fiddle with it by forking it.
 
 Tested On:
-- Nothing Phone(1) / Nothing OS 1.0.X - 2.6.X
-- Nothing Phone(2) / Nothing OS 2.0.X - 2.6.X
-- Nothing Phone(2a) / Nothing OS 2.5.5a - 3.0.0 Beta
+- Nothing Phone (1) / Nothing OS 1.0.X - 2.6.X
+- Nothing Phone (2) / Nothing OS 2.0.X - 2.6.X
+- Nothing Phone (2a) / Nothing OS 2.5.5a - 3.0.0 Beta
 - Nothing Phone (3) / Nothing OS 3.5.0
 - CMF Phone 1 / Nothing OS 2.6.0
 
